@@ -84,3 +84,5 @@ function tpsWarpDemo(imgInFilename, mapFilename, lmFilename)
     colormap(map);
 
 return;
+
+%tpsWarpDemo('ronaldo.jpg', 'mapfile', 'landmark')
